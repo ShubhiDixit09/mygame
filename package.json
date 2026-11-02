@@ -1,0 +1,1 @@
+{"name":"me-vs-me","version":"1.0.0","type":"module","private":true,"description":"A sculptural 1v1 strategy duel inspired by Sim","scripts":{"test":"node --test tests/*.test.js"}}
